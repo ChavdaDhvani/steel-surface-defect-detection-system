@@ -54,3 +54,7 @@ or launch the web app
 ```bash
 python app.py
 ```
+<<<<<<< HEAD
+=======
+
+>>>>>>> 73cf67207cffff3448a8cd211152df2912d4f453
