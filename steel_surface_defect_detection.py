@@ -28,8 +28,8 @@ import pickle
 # 2. Define Data Paths
 # ------------------------------------------------------------
 
-train_dir = r"C:\steel-surface-defect-detection-system\NEU-DET\train\images"
-val_dir   = r"C:\steel-surface-defect-detection-system\NEU-DET\validation\images"
+train_dir = r"C:\One\NEU-DET\train\images"
+val_dir   = r"C:\One\NEU-DET\validation\images"
 
 # Check folders
 print("✅ Found train classes:", os.listdir(train_dir))
