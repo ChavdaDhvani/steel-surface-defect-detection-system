@@ -1,10 +1,10 @@
-streamlit
-streamlit-webrtc
+streamlit==1.46.1
+streamlit-webrtc==0.63.3
+tensorflow==2.15.0
 numpy
 pandas
 scikit-learn
 matplotlib
 seaborn
 opencv-python
-tensorflow
-keras
+pillow
