@@ -21,7 +21,8 @@ from tensorflow.keras.preprocessing.image import ImageDataGenerator
 from tensorflow.keras.utils import plot_model
 from sklearn.datasets import load_files
 from tensorflow.keras.utils import to_categorical
-from keras.preprocessing.image import img_to_array, load_img
+from tensorflow.keras.utils import img_to_array, load_img
+
 import pickle
 
 # ------------------------------------------------------------
